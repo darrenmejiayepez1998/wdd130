@@ -1,0 +1,14 @@
+body{
+    max-width: 1600px;
+    margin: 0;
+    padding: 0;
+    align-content: center;
+}
+footer{
+    background-color: gray;
+    padding-top: 15px;
+    width: 100px;
+}
+footer .ice_desk{
+    padding: 15px
+}
