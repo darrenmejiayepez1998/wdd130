@@ -51,7 +51,12 @@ nav a:hover{
     position: relative;
     width: 40%; 
     padding-top: 20px;
-    padding-bottom: 20px;
+    padding-left: 100px;
+}
+.clearfix::after{
+    content: "";
+    clear: both;
+    display: table;
 }
 footer{
     background-color: #A42212;
@@ -73,6 +78,9 @@ footer a{
 footer a:hover{
     color: white;
     text-decoration: underline;
+}
+#message-about-me-and-site{
+    padding-right: 100px;
 }
 
 /*End of css for the home page */
