@@ -84,3 +84,23 @@ footer a:hover{
 }
 
 /*End of css for the home page */
+
+/*This is the css for the portfolio subpage */
+#snesc-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pokemon-cards-img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+#storyboard-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+
+
